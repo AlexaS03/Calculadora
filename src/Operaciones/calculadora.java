@@ -58,6 +58,9 @@ public class calculadora {
 					System.out.println(a+"/"+b+"="+res);
 					break;
 					
+				default:
+				System.out.println("Valor incorrecto, intente de nuevo\n");
+
 			}
 		}
 
