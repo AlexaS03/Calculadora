@@ -60,8 +60,12 @@ public class calculadora {
 					
 				default:
 				System.out.println("Valor incorrecto, intente de nuevo\n");
+				
+				
+				prueba;
 
 			}
+			
 		}
 
 	}
